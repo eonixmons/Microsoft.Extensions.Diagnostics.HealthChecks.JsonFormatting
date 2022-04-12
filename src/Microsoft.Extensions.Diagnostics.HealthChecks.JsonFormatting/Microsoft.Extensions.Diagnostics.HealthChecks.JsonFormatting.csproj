@@ -4,6 +4,14 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting</Title>
+        <Authors>Eonix</Authors>
+        <Description>A helper that integrates with ASP.net core health check system and formats output in JSON.</Description>
+        <Copyright>Eonix</Copyright>
+        <PackageProjectUrl>https://github.com/eonixmons/Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/eonixmons/Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting</RepositoryUrl>
+        <PackageId>Eonix.Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting</PackageId>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
