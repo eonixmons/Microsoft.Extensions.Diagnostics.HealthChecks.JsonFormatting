@@ -22,3 +22,19 @@ app.UseJsonFormattedHealthChecks();
 
 app.Run();
 ```
+
+Then, when fetching `http://<your-site>/health`, you get the following output:
+
+```json
+{
+  "status": "Healthy",
+  "components": [
+    {
+      "component": "Database",
+      "status": "Healthy",
+      "description": null
+    }
+  ],
+  "duration": "00:00:01.1241411"
+}
+```
