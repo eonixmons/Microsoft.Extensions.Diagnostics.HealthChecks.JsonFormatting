@@ -1,12 +1,12 @@
 A helper that integrates with ASP.net core health check system and formats output in JSON.
 
-# Getting started
+## Getting started
 
-A Nuget package is available [here](https://www.nuget.org/packages/Eonix.Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting/1.0.0). It can be installed using the Nuget package manager or the `dotnet` CLI.
+A Nuget package is available [here](https://www.nuget.org/packages/Eonix.Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting). It can be installed using the Nuget package manager or the `dotnet` CLI.
 
 `dotnet add Eonix.Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting`
 
-# Example
+## Example
 
 In your Program.cs file, use the extension method in your pipeline configuration: 
 
