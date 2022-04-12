@@ -1,4 +1,3 @@
-# Description 
 A helper that integrates with ASP.net core health check system and formats output in JSON.
 
 # Getting started
