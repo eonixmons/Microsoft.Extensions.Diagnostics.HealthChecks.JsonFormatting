@@ -12,6 +12,8 @@
         <RepositoryUrl>https://github.com/eonixmons/Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting</RepositoryUrl>
         <PackageId>Eonix.Microsoft.Extensions.Diagnostics.HealthChecks.JsonFormatting</PackageId>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
